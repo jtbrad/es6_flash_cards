@@ -1,3 +1,5 @@
+// Was not able to figure out how to delete or edit a card using my current implementation.
+
 let cardHolder = document.getElementById("card-holder");
 let cards = [];
 let cardId = 0;
